@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1795140132 source:d:\projetos_c\teste_codigofonte_sed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+
+1795142606 source:d:\projetos_c\codigofonte_sed\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+
